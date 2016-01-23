@@ -1,0 +1,46 @@
+# Justyn Clark Web Site Version 2
+# http://justynclark.com
+# @author JustynClark
+
+
+#Project
+video
+error_log
+images
+Gruntfile.js
+
+## Node.js
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+pids
+logs
+results
+npm-debug.log
+node_modules
+
+## Bower
+bower_components
+
+## Sass
+.sass-cache
+
+## OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

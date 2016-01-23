@@ -1,0 +1,16 @@
+{
+  "name": "justynclarkv2",
+  "version": "2.0.0",
+  "dependencies": {
+    "foundation-sites": "~6.1.0",
+    "motion-ui": "~1.1.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
