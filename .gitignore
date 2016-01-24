@@ -8,6 +8,7 @@ video
 error_log
 images
 Gruntfile.js
+.remote-sync.json
 
 ## Node.js
 lib-cov
