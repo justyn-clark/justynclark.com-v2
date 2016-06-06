@@ -205,10 +205,7 @@ module.exports = function (grunt) {
         files: '<%= project.src %>/scss/{,*/}*.{scss,sass}',
         tasks: ['sass:dev', 'cssmin:dev']
       },
-      livereload: {
-        options: {
-          livereload: LIVERELOAD_PORT
-        },
+
         files: [
           '<%= project.app %>/{,*/}*.html',
           'css/*.css',
@@ -229,7 +226,7 @@ module.exports = function (grunt) {
     'cssmin:dev',
     'jshint',
     'concat:dev',
-    'connect:livereload',
+    /*'connect:livereload',*/
     'open',
     'watch'
   ]);
