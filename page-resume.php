@@ -62,16 +62,6 @@ get_header('resume'); ?>
                   <li>Logic Pro X</li>
                   <li>Google Apps</li>
                   <li>Google Analytics</li>
-                  <li>Sublime Text 3</li>
-                  <li>Command Line (CLI)</li>
-                  <li>Grunt / Gulp / npm / Bower</li>
-                  <li>Karma & Jasmine (Unit Testing)</li>
-                  <li>Webpack / Babel / Browserify</li>
-                  <li>Emmet & CoffeeScript</li>
-                  <li>SVN / Git & GitHub</li>
-                  <li>Adobe Creative Suite</li>
-                  <li>Final Cut Pro X</li>
-                  <li>Logic Pro X</li>
                 </ul>
             </div>
           <div class="small-12 large-3 columns omega">
