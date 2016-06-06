@@ -7,6 +7,11 @@
 video
 error_log
 images
+<<<<<<< HEAD
+=======
+Gruntfile.js
+.remote-sync.json
+>>>>>>> 784fbaef68c7f9f8743d59b5a3bd7ea60c401622
 
 ## Node.js
 lib-cov

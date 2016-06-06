@@ -8,11 +8,19 @@
 
 @font-face {
   font-family: "foundation-icons";
+<<<<<<< HEAD
   src: url("../../justynclarkv2/fonts/foundation-icons.eot");
   src: url("../../justynclarkv2/fonts/foundation-icons.eot?#iefix") format("embedded-opentype"),
        url("../../justynclarkv2/fonts/foundation-icons.woff") format("woff"),
        url("../../justynclarkv2/fonts/foundation-icons.ttf") format("truetype"),
        url("../../justynclarkv2/fonts/foundation-icons.svg#fontcustom") format("svg");
+=======
+  src: url("../../justynclark/fonts/foundation-icons.eot");
+  src: url("../../justynclark/fonts/foundation-icons.eot?#iefix") format("embedded-opentype"),
+       url("../../justynclark/fonts/foundation-icons.woff") format("woff"),
+       url("../../justynclark/fonts/foundation-icons.ttf") format("truetype"),
+       url("../../justynclark/fonts/foundation-icons.svg#fontcustom") format("svg");
+>>>>>>> 784fbaef68c7f9f8743d59b5a3bd7ea60c401622
   font-weight: normal;
   font-style: normal;
 }

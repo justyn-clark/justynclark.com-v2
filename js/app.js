@@ -47,8 +47,12 @@ jQuery(document).ready(function($) {
 
     clearTimeout(timer);
 
+<<<<<<< HEAD
     if (st > lastScrollTop && $(window).scrollTop() > 500 && !$('#nav')
       .hasClass('open')) {
+=======
+    if (st > lastScrollTop && $(window).scrollTop() > 500 && !$('#nav').hasClass('open')) {
+>>>>>>> 784fbaef68c7f9f8743d59b5a3bd7ea60c401622
       shrink();
     } else {
       grow();
