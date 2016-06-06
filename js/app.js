@@ -28,17 +28,17 @@ jQuery(document).ready(function($) {
   }
 
   $('.navicon-button').hover(function() {
-      clearTimeout(timer);
-    },
-    function() {
-      timer = setTimeout(function() {
-        if ($(window).scrollTop() > 500 && !$('#nav').hasClass('open')) {
-          shrink();
-        } else {
-          grow();
-        }
-      }, 0);
-    }
+        clearTimeout(timer);
+      },
+      function() {
+        timer = setTimeout(function() {
+          if ($(window).scrollTop() > 500 && !$('#nav').hasClass('open')) {
+            shrink();
+          } else {
+            grow();
+          }
+        }, 0);
+      }
   );
 
   $(window).scroll(function() {
@@ -47,12 +47,7 @@ jQuery(document).ready(function($) {
 
     clearTimeout(timer);
 
-<<<<<<< HEAD
-    if (st > lastScrollTop && $(window).scrollTop() > 500 && !$('#nav')
-      .hasClass('open')) {
-=======
     if (st > lastScrollTop && $(window).scrollTop() > 500 && !$('#nav').hasClass('open')) {
->>>>>>> 784fbaef68c7f9f8743d59b5a3bd7ea60c401622
       shrink();
     } else {
       grow();
