@@ -4,6 +4,9 @@
 <!--[if IE 8]>    <html class="no-js ie8 oldie" <?php language_attributes(); ?> "> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" <?php language_attributes(); ?> > <!--<![endif]-->
 <head>
+<!-- Begin INDEXING FOLLOW -->
+<meta name="robots" content="index, follow"/>
+	<!-- End INDEXING FOLLOW -->
 <meta charset="<?php bloginfo('charset'); ?>">
 <title><?php wp_title('|', true, 'right'); ?></title>
 <!-- Mobile viewport optimized: j.mp/bplateviewport -->
